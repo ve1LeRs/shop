@@ -6,8 +6,6 @@ import ProductDetail from './components/ProductDetail';
 import LanguageSwitcher from './components/LanguageSwitcher';
 import RecommendedProducts from './components/RecommendedProducts';
 import DeliveryOptions from './components/DeliveryOptions';
-import UserProfile from './components/UserProfile';
-import ChangePassword from './components/ChangePassword';
 import Wishlist from './components/Wishlist';
 import Reviews from './components/Reviews';
 import StoreInfo from './components/StoreInfo';
@@ -20,7 +18,6 @@ const App = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [language, setLanguage] = useState('ru');
   const [orderHistory, setOrderHistory] = useState([]);
-  const [userProfile, setUserProfile] = useState({ name: '', email: '' });
   const [wishlist, setWishlist] = useState([]);
   const [notification, setNotification] = useState(''); // Состояние для уведомления
 
@@ -67,10 +64,6 @@ const App = () => {
     };
     setOrderHistory([...orderHistory, newOrder]);
     setCartItems([]);
-  };
-
-  const updateUserProfile = (profileData) => {
-    setUserProfile(profileData);
   };
 
   const addToWishlist = (product) => {
@@ -145,9 +138,7 @@ const App = () => {
         />
         <Route path="/product/:id" element={<ProductDetail products={products} addToCart={addToCart} />} />
         <Route path="/cart" element={<Cart cartItems={cartItems} removeFromCart={removeFromCart} onOrder={handleOrder} />} />
-        <Route path="/profile" element={<UserProfile userProfile={userProfile} updateUserProfile={updateUserProfile} />} />
         <Route path="/wishlist" element={<Wishlist wishlist={wishlist} removeFromWishlist={removeFromWishlist} />} />
-        <Route path="/change-password" element={<ChangePassword />} />
         <Route path="/reviews" element={<Reviews products={products} />} />
         <Route path="/store-info" element={<StoreInfo />} />
       </Routes>
