@@ -1,0 +1,84 @@
+[33mcommit 0d06ae61d44b42c77700ca5fb25c8cfd961d2401[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mclean-branch[m[33m)[m
+Author: ve1LeRs <148315495+ve1LeRs@users.noreply.github.com>
+Date:   Sun Oct 20 02:35:58 2024 +0300
+
+    My changes
+
+[33mcommit 0771e2eed0c2dd8a46816ed89ae4e0d6f64c8562[m
+Author: ve1LeRs <148315495+ve1LeRs@users.noreply.github.com>
+Date:   Sun Oct 20 02:33:53 2024 +0300
+
+    Initial commit
+
+[33mcommit d58751929847ef1d73872d65d0651444b0324f57[m
+Author: ve1LeRs <148315495+ve1LeRs@users.noreply.github.com>
+Date:   Thu Oct 17 23:47:05 2024 +0300
+
+    Первый коммит
+
+[33mcommit eb1f7853caec6f7355db12ef08a03041d15421fa[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: ve1LeRs <148315495+ve1LeRs@users.noreply.github.com>
+Date:   Thu Oct 17 04:00:35 2024 +0300
+
+    Обновлены файлы App.js и ProductDetail.js
+
+[33mcommit 73b122c7120bb2a6021d2c0b5337a60287007a55[m
+Author: ve1LeRs <148315495+ve1LeRs@users.noreply.github.com>
+Date:   Thu Oct 17 03:06:49 2024 +0300
+
+    Описание изменений
+
+[33mcommit 3e621f23b44e2c7ea7b32c9b46f0e0cc2e229532[m
+Author: ve1LeRs <148315495+ve1LeRs@users.noreply.github.com>
+Date:   Thu Oct 17 03:03:56 2024 +0300
+
+    Ваше сообщение о коммите
+
+[33mcommit d35a548d590a69deb561ccad81f8eaf1c4497e94[m
+Author: ve1LeRs <148315495+ve1LeRs@users.noreply.github.com>
+Date:   Thu Oct 17 01:25:22 2024 +0300
+
+    Initial commit
+
+[33mcommit 34fc11908ddbd9097e001965d7949fc7e0b2e290[m
+Merge: 7b9696ce 2ceacc80
+Author: ve1LeRs <148315495+ve1LeRs@users.noreply.github.com>
+Date:   Thu Oct 17 01:10:10 2024 +0300
+
+    Merge branch 'main' of https://github.com/ve1LeRs/shop
+
+[33mcommit 7b9696cee2dcc62e34b5dd4711ae565e82fbee1f[m
+Author: ve1LeRs <148315495+ve1LeRs@users.noreply.github.com>
+Date:   Thu Oct 17 01:10:00 2024 +0300
+
+    Updated package.json with necessary changes
+
+[33mcommit 2ceacc8046e72099704792be34a0026fa5b5b48d[m
+Author: ve1LeRs <148315495+ve1LeRs@users.noreply.github.com>
+Date:   Thu Oct 17 00:59:06 2024 +0300
+
+    Update package.json
+
+[33mcommit 10b2a0a90a173aa85e1362b78370f9f3360af97d[m
+Author: ve1LeRs <148315495+ve1LeRs@users.noreply.github.com>
+Date:   Thu Oct 17 00:50:10 2024 +0300
+
+    Обновлен package.json
+
+[33mcommit 88f165318da722cc303e3566ff6151ed598a35e8[m
+Author: ve1LeRs <148315495+ve1LeRs@users.noreply.github.com>
+Date:   Thu Oct 17 00:42:45 2024 +0300
+
+    Добавлены новые папки и файлы
+
+[33mcommit 6ca23f7a06aeb2850bea47b231ae4c6b8bcf8458[m
+Author: ve1LeRs <148315495+ve1LeRs@users.noreply.github.com>
+Date:   Thu Oct 17 00:20:39 2024 +0300
+
+    Исправлен файл package.json
+
+[33mcommit 9167e8b13dbb73d5e52e731bb4e04d248f795f46[m
+Author: ve1LeRs <148315495+ve1LeRs@users.noreply.github.com>
+Date:   Wed Oct 16 22:55:58 2024 +0300
+
+    Добавлены файлы проекта
